@@ -124,7 +124,7 @@ $ docker container top webhost
 
 - UID, PID 등의 정보를 확인할 수 있다
 
-실행중인 컨테이너 삭제하기
+생성된 컨테이너 삭제하기
 
 ```terminal
 $ docker container rm c_id1 c_id2, ...
